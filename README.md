@@ -1,2 +1,2 @@
-# satellite
-satellite
+# Satellite
+Configuration settings for remote satellite
